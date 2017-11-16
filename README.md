@@ -1,5 +1,9 @@
 # spacecountfunction
 
+This example counts the amount of people in space using the Open Notify API through a Node.js function and OpenFaaS.
+
+You can use it as a template to build your own function.
+
 1. Deploy [OpenFaaS](https://www.openfaas.com)
 
 2. Grab the [CLI](https://github.com/openfaas/faas-cli)
