@@ -6,4 +6,4 @@ functions:
   webreq:
     lang: node
     handler: ./webreq
-    image: webreq
+    image: alexellis/webreq
