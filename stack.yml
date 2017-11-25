@@ -3,8 +3,8 @@ provider:
   gateway: http://localhost:8080
 
 functions:
+
   webreq:
     lang: node
     handler: ./webreq
     image: alexellis/webreq:0.1
-
